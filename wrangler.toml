@@ -1,0 +1,8 @@
+name = "snippet-b2-picbed"
+main = "src/worker.js"
+compatibility_date = "2026-05-02"
+
+[vars]
+DEBUG = "false"
+B2_REGION = "us-west-004"
+CACHE_DURATION_SECONDS = "31536000"
