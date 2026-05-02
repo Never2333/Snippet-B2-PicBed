@@ -1,4 +1,4 @@
-name = "snippet-b2-picbed"
+name = "snippetb2"
 main = "src/worker.js"
 compatibility_date = "2026-05-02"
 
